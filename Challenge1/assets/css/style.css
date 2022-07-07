@@ -69,12 +69,6 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,6 +94,11 @@ p {
 }
 
 .content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+.contents {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -117,13 +116,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h4 {
     font-size: 20px;
 }
