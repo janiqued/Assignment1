@@ -1,13 +1,13 @@
 Horiseon
 
-Purpose
+Purpose:
 A website that offers information about search engine optimization.
 
 Built With
 * HTML
 * CSS
 
-Website
+Website:
 https://janiqued.github.io/Assignment1/
 
 Contribution
